@@ -1,6 +1,6 @@
 import Image from 'next/image'
 
-import TestimonialImage01 from '@/public/images/testimonial-01.jpg'
+import TestimonialImage01 from '@/public/images/TestimonialImage01'
 import TestimonialImage02 from '@/public/images/testimonial-02.jpg'
 import TestimonialImage03 from '@/public/images/testimonial-03.jpg'
 
