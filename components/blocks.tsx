@@ -6,8 +6,8 @@ export default function Blocks() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">The majority our customers do not understand their workflows.</h2>
-            <p className="text-xl text-gray-400">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <h2 className="h2 mb-4">RECRUITMENT SOLUTIONS ACROSS INDUSTRIES AND FUNCTIONS.</h2>
+            <p className="text-xl text-gray-400">We specialize in providing comprehensive recruitment solutions tailored to meet the diverse needs of various industries and functions. Our approach ensures finding the right talent to drive your organization's success.</p>
           </div>
 
           {/* Items */}
@@ -21,7 +21,7 @@ export default function Blocks() {
                 <path className="stroke-current text-purple-300" d="M43 42h-9M43 37h-9" strokeLinecap="square" strokeWidth="2" />
               </svg>
               <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <p className="text-lg text-gray-400 text-center">Explore instant features designed to streamline your workflow and enhance productivity across various sectors.</p>
             </div>
 
             {/* 2nd item */}
@@ -32,7 +32,7 @@ export default function Blocks() {
                 <path className="stroke-current text-purple-300" d="M26 28h12M26 32h12M26 36h5" strokeWidth="2" strokeLinecap="square" />
               </svg>
               <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <p className="text-lg text-gray-400 text-center">Discover powerful tools and functionalities that elevate your business operations with ease and efficiency.</p>
             </div>
 
             {/* 3rd item */}
@@ -46,7 +46,7 @@ export default function Blocks() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <p className="text-lg text-gray-400 text-center">Unlock innovative solutions tailored to meet the demands of modern businesses and ensure sustainable growth.</p>
             </div>
 
             {/* 4th item */}
@@ -59,7 +59,7 @@ export default function Blocks() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <p className="text-lg text-gray-400 text-center">Harness cutting-edge technologies and strategies to optimize performance and achieve strategic objectives.</p>
             </div>
 
             {/* 5th item */}
@@ -72,7 +72,7 @@ export default function Blocks() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <p className="text-lg text-gray-400 text-center">Empower your team with advanced capabilities that foster collaboration and drive meaningful results.</p>
             </div>
 
             {/* 6th item */}
@@ -86,7 +86,7 @@ export default function Blocks() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <p className="text-lg text-gray-400 text-center">Stay ahead of the curve with agile solutions that adapt to changing market dynamics and customer needs.</p>
             </div>
 
           </div>
